@@ -1,0 +1,21 @@
+.background {
+    background-color: rgba(0, 0, 0, 0.709);
+    width: 100vw;
+    height: 100%;
+}
+
+.container {
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    background-color: rgb(228, 228, 228);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+
+
